@@ -2,7 +2,7 @@
 <center>
 <p align="center">
   <a href="https://dc.horizonlegacy.net">
-    <img src="https://github.com/HorizonLegacy/.github/blob/main/HorizonLegacy_DC.png" alt="Logo" width="80" height="80">
+    <img src="https://github.com/HorizonLegacy/.github/blob/main/HorizonLegacy_DC.png" alt="Logo" width="100" height="100">
   </a>
 
   <h3 align="center">HorizonLegacy.net</h3>
