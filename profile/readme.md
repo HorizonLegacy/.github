@@ -20,7 +20,7 @@
 
 - 🔭 We are currently working on a **[Minigame Network](https://dc.horizonlegacy.net)** 
 
-- 🌱 We are coding with **Skript, Java, JS, HTML and CSS**
+- 🌱 We are coding with **Skript, Java, JS, Python, HTML, and CSS**
 
 - 📫 How you can reach us: **contact@horzionlegacy.net** or **Discord: https://dc.horizonlegacy.net**
 
